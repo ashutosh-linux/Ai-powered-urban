@@ -1,0 +1,4 @@
+zone_id,lat,lon,temperature,precipitation,wind_speed,traffic_duration,timestamp,flood_risk
+A,19.0176,72.8562,27.9,0.0,8.5,0.0,2025-04-25 01:13:28,0
+B,19.0288,72.8505,27.9,0.0,8.5,0.0,2025-04-25 01:13:29,0
+C,19.04,72.843,27.9,0.0,8.5,0.0,2025-04-25 01:13:29,0
